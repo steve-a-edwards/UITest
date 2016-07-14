@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-
+// Update MB 2016-07-14
 
     public void startChronometer(View view) {
         long startTime = SystemClock.elapsedRealtime();
